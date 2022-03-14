@@ -1,7 +1,7 @@
 # PSM_lab1
 
 Zaimplementować funkcję sin(x) liczącą wartość funkcji sin wykorzystując rozwinięcie w szereg Taylora zgodnie z formułą: 
-## sin(𝑥)=𝑥−𝑥^3!+𝑥55!−𝑥77!+ ...
+## sin(x) = x - x^3/3! + x^5/5! - x^7/7! + x^9/9! - x^11/11! + x^13/13! - x^15/15! + x^17/17! - x^19/19! + x^21/21!
 Wykonać obliczenia biorąc pod uwagę kolejno 1,2,3,..,10 wyrazy szeregu
 Kolejne wyniki porównać do wyniku funkcji sin z biblioteki matematycznej oraz wyświetlić bezwzględną wartość różnicy pomiędzy tymi wynikami.
 Program powinien policzyć wartość funkcjidla dowolnego kąta x wyrażonego w stopniach lub radianach
